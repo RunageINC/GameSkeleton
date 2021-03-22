@@ -1,0 +1,11 @@
+1;Socos e Chutes;1;Dano Físico;Soca e chuta, causando 110% de dano físico;1
+2;Bola de Energia;2;Dano Mágico;Lança uma bola de ki, causando 110% de dano mágico;1
+3;Magia Infinita;0;Auto Buff Passivo;Se não tomar dano, a próxima habilidade não tera custo;1
+4;Aura Angelical;0;Auto Buff Passivo;10% de chance de esquivar;0
+5;Kiai Básico;2;Dano Mágico;Lança um golpe de ar impossível de esquivar no inimigo, causando 130% de dano mágico;2
+6;Combo de Espada;1;Dano Físico;Ataca o inimigo com cortes sequenciais de espada, em sua forma mais básica, causando 110% de dano físico;1
+7;Iaigiri;2;Dano Físico;Atinge o inimigo com um saque rápido de espada. Esse golpe sempre irá primeiro, causa 130% de dano físico e 100% de chance de causar um acerto crítico;2
+8;Mordida;1;Dano Físico;Morde o inimigo com a força de sua mandíbula, causando 120% de dano físico;1
+9;Semente dos Deuses;0;Buff em Time Passivo;Cura o time inteiro após o fim da batalha;0
+10;Raio de Espada;2;Dano Híbrido;Imbue a espada com ki, jogando um corte de energia que age como dano mágico (130% de dano físico + 50% de dano Mágico);2
+11;Tiros de Metralhadora;1;Dano Físico;Atira com uma metralhadora, causando 120% de dano físico;1

@@ -4,9 +4,9 @@ public class Skill {
 
 	private String id;
 	private String name;
-	private String description;
 	private int cost;
 	private String skillType;
+	private String description;
 	private int cooldownTime;
 	public int currentCooldownTime;
 	
